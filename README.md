@@ -8,4 +8,8 @@ CNC laser postavený z komponentů vymontovaných z nefunkčních multifunkční
 
 # Nastavení LaserGRBL
 Pro správný chod je nutné nastavit parametry zařízení
-- Bullet list
+- Rozsah otáček/intensity laser (řízeno pomocí PWM)
+- Počet kroků na 1 mm pro osy X, Y
+- Rychlost pro rychlo posuv pro osy X, Y
+- Hodnota akcelerace os X, Y
+- Limity pracovní plochy
