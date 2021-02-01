@@ -1,5 +1,5 @@
 # CNC Laser
-CNC laser postavený z komponentů vymontovaných z nefunkčních multifunkčních tiskáren (Bipolární krokové motory, převody, řemen a napínací kolečko), Arduino UNO + CNC shield V3.0 jako kontroler a NEJE Laser modul - 30W elektrický příkon (7,5W optický výkon).
+CNC laser postavený z komponentů vymontovaných z nefunkčních multifunkčních tiskáren (Bipolární krokové motory, převody, řemeny a napínací kolečka), Arduino UNO + CNC shield V3.0 jako kontroler a NEJE Laser modul - 30W elektrický příkon (7,5W optický výkon).
 
 # Software
 1. GRBL - firmware pro Arduino UNO. Překládá G-CODE posílaný z počítače přes seriovou linku do Arduino Uno do elektrických signálů pro Bipolární krokové motory a Laserový modul.
