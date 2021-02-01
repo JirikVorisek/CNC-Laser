@@ -1,1 +1,1 @@
-# CNC-Laser-cutter
+# CNC Laser cutter
